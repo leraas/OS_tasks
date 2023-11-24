@@ -1,0 +1,3 @@
+/Users/valeriasecko/Desktop/ОС/Practise_1/cmake-build-debug/CMakeFiles/Practise_1.dir
+/Users/valeriasecko/Desktop/ОС/Practise_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/valeriasecko/Desktop/ОС/Practise_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
