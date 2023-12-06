@@ -1,5 +1,0 @@
-ReturnResultStream: ReturnResultStream.cpp
-	 g++ -o ReturnResultStream ReturnResultStream.cpp
-	 
-clean:
-	 rm -f ReturnResultStream
