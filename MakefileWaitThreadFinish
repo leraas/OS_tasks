@@ -1,5 +1,0 @@
-WaitThreadFinish: WaitThreadFinish.cpp
-	 g++ -o WaitThreadFinish WaitThreadFinish.cpp
-	 
-clean:
-	 rm -f WaitThreadFinish
