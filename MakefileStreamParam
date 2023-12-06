@@ -1,5 +1,0 @@
-StreamParam: StreamParam.cpp
-	 g++ -o StreamParam StreamParam.cpp
-	 
-clean:
-	 rm -f StreamParam
