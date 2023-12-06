@@ -1,0 +1,5 @@
+CreatingThreads: CreatingThreads.cpp
+	 g++ -o CreatingThreads CreatingThreads.cpp
+	 
+clean:
+	 rm -f CreatingThreads
